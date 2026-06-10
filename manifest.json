@@ -1,8 +1,8 @@
 {
-  "versao_atual": "1.1.0",
-  "url_instalador": "https://github.com/felipegui88/orquestrador-saj-releases/releases/download/v1.1.0/OrquestradorSAJ-Setup-1.1.0.exe",
+  "versao_atual": "1.2.0",
+  "url_instalador": "https://github.com/felipegui88/orquestrador-saj-releases/releases/download/v1.2.0/OrquestradorSAJ-Setup-1.2.0.exe",
   "bloqueado": false,
   "mensagem_bloqueio": "",
-  "mensagem_update": "",
+  "mensagem_update": "Novidades: opcoes de Magistrado e Baixar andamentos, janela de Configuracoes, integracao de pecas sigilosas, e login que evita repedir o codigo de verificacao.",
   "versao_minima": "1.0.0"
 }
