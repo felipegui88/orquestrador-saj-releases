@@ -1,8 +1,8 @@
 {
-  "versao_atual": "1.2.1",
-  "url_instalador": "https://github.com/felipegui88/orquestrador-saj-releases/releases/download/v1.2.1/OrquestradorSAJ-Setup-1.2.1.exe",
+  "versao_atual": "1.2.2",
+  "url_instalador": "https://github.com/felipegui88/orquestrador-saj-releases/releases/download/v1.2.2/OrquestradorSAJ-Setup-1.2.2.exe",
   "bloqueado": false,
   "mensagem_bloqueio": "",
-  "mensagem_update": "Correcao: ao desmarcar 'Baixar andamentos', o programa nao gera mais o arquivo .md (baixa somente o PDF do processo).",
-  "versao_minima": "1.0.0"
+  "mensagem_update": "Nova versao: painel 'Andamento do lote' com status de cada processo e botao para retentar os que deram erro; log recolhivel; correcoes importantes de download (2o grau e processos nao encontrados) e de sincronizacao. Atualizacao obrigatoria.",
+  "versao_minima": "1.2.2"
 }
