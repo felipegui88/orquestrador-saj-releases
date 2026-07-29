@@ -3,6 +3,6 @@
   "url_instalador": "https://github.com/felipegui88/orquestrador-saj-releases/releases/download/v1.2.2/OrquestradorSAJ-Setup-1.2.2.exe",
   "bloqueado": false,
   "mensagem_bloqueio": "",
-  "mensagem_update": "Nova versao: painel 'Andamento do lote' com status de cada processo e botao para retentar os que deram erro; log recolhivel; correcoes importantes de download (2o grau e processos nao encontrados) e de sincronizacao. Atualizacao obrigatoria.",
-  "versao_minima": "1.2.2"
+  "mensagem_update": "Nova versao: painel 'Andamento do lote' com status de cada processo e botao para retentar os que deram erro; log recolhivel; correcoes importantes de download (2o grau e processos nao encontrados) e de sincronizacao. Atualizacao opcional.",
+  "versao_minima": "1.2.1"
 }
