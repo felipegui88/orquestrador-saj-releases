@@ -1,8 +1,8 @@
 {
-  "versao_atual": "1.2.3",
+  "versao_atual": "1.2.3 (link: tinyurl.com/orquestradorsaj)",
   "url_instalador": "https://github.com/felipegui88/orquestrador-saj-releases/releases/download/v1.2.3/OrquestradorSAJ-Setup-1.2.3.exe",
   "bloqueado": false,
   "mensagem_bloqueio": "",
-  "mensagem_update": "Nova versao 1.2.3: atualizacoes obrigatorias agora sao instaladas automaticamente (baixa e abre o instalador com um clique). Inclui tambem as correcoes da 1.2.2 (painel Andamento do lote com retry, log recolhivel, correcoes de download 2o grau/processos nao encontrados/sincronizacao).",
+  "mensagem_update": "Nova versao 1.2.3: atualizacoes obrigatorias agora sao instaladas automaticamente (baixa e abre o instalador com um clique). Inclui tambem as correcoes da 1.2.2 (painel Andamento do lote com retry, log recolhivel, correcoes de download 2o grau/processos nao encontrados/sincronizacao). Link direto: tinyurl.com/orquestradorsaj",
   "versao_minima": "1.2.1"
 }
